@@ -1,5 +1,4 @@
-- Hi, I’m @jingguo-st, serving at SenseTime Tech. as a System Researcher.
-
+- Hi, I’m fujingguo(Jagger), serving at SenseTime Tech. as a System Researcher.
 
 <!---
 - 👀 I’m interested in ...
